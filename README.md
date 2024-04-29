@@ -4,6 +4,9 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 
+## Wanderlust DevSecOps CI/CD Architecture
+<img src="https://github.com/swaleham/wanderlust/blob/main/wanderlust.svg">
+
 ## Setting up the project locally
 
 ### Setting up the Backend
@@ -82,14 +85,6 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
    ```bash
    npm run dev
    ```
-### Wanderlust DevSecOps CI/CD Architecture
-<img src="https://github.com/swaleham/wanderlust/blob/main/wanderlust.svg">
 
-### Wanderlust DevSecOps CI/CD stages
+## Wanderlust DevSecOps CI/CD stages
 <img src="https://github.com/swaleham/wanderlust/blob/main/DevSecOps-CICD.png">
-
-## 💖 Show Your Support
-
-If you find this project interesting and inspiring, please consider showing your support by starring it on GitHub! Your star goes a long way in helping me reach more developers and encourages me to keep enhancing the project.
-
-🚀 Feel free to get in touch with me for any further queries or support, happy to help :)
