@@ -94,10 +94,11 @@ _I'd love for you to make the most of this project - it's all about learning, he
    ```bash
    npm run dev
    ```
+### Wanderlust DevSecOps CI/CD Architecture
+<img src="https://github.com/swaleham/wanderlust/blob/main/wanderlust.svg">
 
-## 🌟 Ready to Contribute?
-
-Kindly go through [CONTRIBUTING.md](https://github.com/krishnaacharyaa/wanderlust/blob/main/.github/CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
+### Wanderlust DevSecOps CI/CD stages
+<img src="https://github.com/swaleham/wanderlust/blob/main/DevSecOps-CICD.png">
 
 ## 💖 Show Your Support
 
